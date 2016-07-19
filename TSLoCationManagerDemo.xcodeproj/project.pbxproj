@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FC3797AD1D3E35B500E36642 /* DDBB6219606F84DDE6B53DF56F7A2C20.png in Resources */ = {isa = PBXBuildFile; fileRef = FC3797AC1D3E35B500E36642 /* DDBB6219606F84DDE6B53DF56F7A2C20.png */; };
 		FC4B3B031D3E04D300B4B71A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = FC4B3B021D3E04D300B4B71A /* main.m */; };
 		FC4B3B061D3E04D300B4B71A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = FC4B3B051D3E04D300B4B71A /* AppDelegate.m */; };
 		FC4B3B091D3E04D300B4B71A /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FC4B3B081D3E04D300B4B71A /* ViewController.m */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		FC3797AC1D3E35B500E36642 /* DDBB6219606F84DDE6B53DF56F7A2C20.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = DDBB6219606F84DDE6B53DF56F7A2C20.png; sourceTree = "<group>"; };
 		FC4B3AFE1D3E04D300B4B71A /* TSLoCationManagerDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TSLoCationManagerDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FC4B3B021D3E04D300B4B71A /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		FC4B3B041D3E04D300B4B71A /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -61,6 +63,7 @@
 		FC4B3B001D3E04D300B4B71A /* TSLoCationManagerDemo */ = {
 			isa = PBXGroup;
 			children = (
+				FC3797AC1D3E35B500E36642 /* DDBB6219606F84DDE6B53DF56F7A2C20.png */,
 				FC4B3B181D3E05BB00B4B71A /* TSLocationManager */,
 				FC4B3B041D3E04D300B4B71A /* AppDelegate.h */,
 				FC4B3B051D3E04D300B4B71A /* AppDelegate.m */,
@@ -152,6 +155,7 @@
 			files = (
 				FC4B3B111D3E04D300B4B71A /* LaunchScreen.storyboard in Resources */,
 				FC4B3B0E1D3E04D300B4B71A /* Assets.xcassets in Resources */,
+				FC3797AD1D3E35B500E36642 /* DDBB6219606F84DDE6B53DF56F7A2C20.png in Resources */,
 				FC4B3B0C1D3E04D300B4B71A /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
